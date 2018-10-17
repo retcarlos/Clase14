@@ -1,0 +1,10 @@
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\bin\Debug\Chinook.UI.Windows.exe.config
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\bin\Debug\Chinook.UI.Windows.exe
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\bin\Debug\Chinook.UI.Windows.pdb
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.csprojResolveAssemblyReference.cache
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.Form1.resources
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.Properties.Resources.resources
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.csproj.GenerateResource.Cache
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.csproj.CoreCompileInputs.cache
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.exe
+F:\Cibertec\Desarrollo C#\Clase 14\WCF\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.pdb

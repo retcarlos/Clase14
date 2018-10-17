@@ -1,0 +1,15 @@
+GIT
+ |--> Instalar    -->
+ |--> Configurar  --> GITHUB
+
+git clone direccion url
+git add //para adicionar archivos
+git status // para visualizar el estado de los archivos
+git commit -m "Nuevos archivos"
+git pull //descargar archivos
+
+Estados de GIT
+- Not Change
+- Change
+- Commit --> local
+- remote --> Push
